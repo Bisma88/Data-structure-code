@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
 public class TicTacToe {
-//All the methods for operating the game smoothly are defined by the methods which are in this class:
+  //All the methods for operating the game smoothly are defined by the methods which are in this class:
 
 static ArrayList&lt;Integer&gt; playerPositions= new ArrayList&lt;Integer&gt;(); //Creating an ArrayList for
 storing winning positions of the board for user inputs
